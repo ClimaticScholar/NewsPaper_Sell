@@ -7,7 +7,7 @@ An Ecommerce Website made with React.js Framework.
 Clone the project
 
 ```bash
-  git clone 
+  git clone https://github.com/ClimaticScholar/NewsPaper_Sell
 ```
 
 Go to the project directory
